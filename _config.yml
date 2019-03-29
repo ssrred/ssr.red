@@ -23,7 +23,7 @@ description: 少数人
 
 # List of links in the navigation bar
 navbar-links:
-  首页:"https://ssr.red/"
+  首页: "https://ssr.red/"
   关于我们: "aboutme"
   本站推荐:
     - Beautiful Jekyll: "https://ssr.red/"
