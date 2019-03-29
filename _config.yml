@@ -17,7 +17,7 @@ baseurl: ""
 title: 少数人
 
 # Short description of your site
-description: ssr.red
+description: SSR.RED
 
 # --- Navigation bar options --- #
 
@@ -100,7 +100,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ssr.red"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "SSR.RED"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
