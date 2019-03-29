@@ -8,8 +8,8 @@ url: "https://ssr.red/"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
+#url: "http://ssrred.github.io/ssr.red"
+#baseurl: "/ssr.red"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
